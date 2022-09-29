@@ -1,4 +1,4 @@
-# -1-420-Hours-Mandarin-Spontaneous-Speech-Data-by-Mobile-Phone
+# 1420-Hours-Mandarin-Spontaneous-Speech-Data-by-Mobile-Phone
 https://www.datatang.ai/datasets/77
 
 ## Description
