@@ -4,7 +4,7 @@
 ## Description
 The data were recorded by 700 Mandarin speakers, 65% of whom were women. There is no pre-made text, and speakers makes phone calls in a natural way while recording the contents of the calls. This data mainly labels the near-end speech, and the speech content is naturally colloquial.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/77?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/77?source=Github
 
 
 ## Format
